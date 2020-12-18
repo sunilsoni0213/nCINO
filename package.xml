@@ -5,6 +5,7 @@
         <members>LLC_BI__Collateral_Type__c.A_test2__c</members>
         <members>LLC_BI__Collateral__c.A_test_field__c</members>
         <members>LLC_BI__Rate__c.test__c</members>
+        <members>LLC_BI__Rate__c.testcheckbox__c</members>
         <name>CustomField</name>
     </types>
     <types>
